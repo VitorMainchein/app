@@ -28,6 +28,9 @@ const Home = () => {
                 <Link href='/ifome' style={styles.link}>
                     <Text style={styles.linkText}>Ifome</Text>
                 </Link>
+                <Link href='/camera' style={styles.link}>
+                    <Text style={styles.linkText}>Camera</Text>
+                </Link>
             </View>
         </View>
     );
